@@ -3,8 +3,8 @@
 Portal institucional desenvolvido como Avaliação Somativa da Unidade Curricular de Desenvolvimento Front-End, utilizando **HTML5 semântico**, **CSS3 moderno**, boas práticas de **SEO** e acessibilidade (**WCAG**).
 
 ## 🔗 Links Oficiais do Projeto
-* **Repositório GitHub:** `https://github.com`
-* **Portal Publicado (GitHub Pages):** `https://github.io`
+* **Repositório GitHub:** https://github.com
+* **Portal Publicado (GitHub Pages):** https://github.io
 
 ## 📂 Estrutura de Arquivos
 * `index.html` — Marcação semântica com 6 seções principais, formulário acessível, tabela comparativa e SVG inline.
