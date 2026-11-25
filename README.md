@@ -3,7 +3,7 @@
 Portal institucional desenvolvido como Avaliação Somativa da Unidade Curricular de Desenvolvimento Front-End, utilizando **HTML5 semântico**, **CSS3 moderno**, boas práticas de **SEO** e acessibilidade (**WCAG**).
 
 ## 🔗 Links Oficiais do Projeto
-* **Repositório GitHub:** https://github.com
+* **Repositório GitHub:** https://github.com/yagomx25/technova-solutions
 * **Portal Publicado (GitHub Pages):** https://github.io
 
 ## 📂 Estrutura de Arquivos
